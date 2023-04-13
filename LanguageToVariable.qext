@@ -1,0 +1,16 @@
+{
+	"name": "LanguageToVariable",
+	"description": "This extension gets browser language or QS language in URL and places the 2 letters language code into a variable",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"preview": "LanguageToVariable-icon.png",
+	"author": "Cristian Dorbesi",
+	"homepage": "www.reveal.se",
+	"keywords": "qlik-sense, language, browser-language, url-language",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
