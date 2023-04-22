@@ -13,4 +13,9 @@
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}
+	"bundle": {
+        "id": "reveal-extensions",
+        "name": "Reveal AB",
+        "description": "This is a set of supported objects that expands the visualization capabilities of Qlik Sense. These can be used in addition to the objects found under 'Charts'. For support conditions and limitations, see the documentation."
+    }
 }
