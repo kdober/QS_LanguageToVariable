@@ -1,18 +1,21 @@
 {
 	"name": "LanguageToVariable",
-	"description": "This extension gets browser language or QS language in URL and places the 2 letters language code into a variable",
 	"type": "visualization",
-	"version": "1.0.0",
-	"icon": "extension",
-	"preview": "LanguageToVariable-icon.png",
-	"author": "Cristian Dorbesi",
+	"description": "This extension gets browser language or QS language in URL and places the 2 letters language code into a variable",
+	"version": "1.0.1",
+	"icon": "box",
+	"preview": "LanguageToVariable_icon.png",
+    "author": {
+        "name": "Cristian Dorbesi",
+        "email": "cdorbesi@gmail.com"
+    },
 	"homepage": "www.reveal.se",
 	"keywords": "qlik-sense, language, browser-language, url-language",
-	"license": "",
+	"license": "GPL",
 	"repository": "",
 	"dependencies": {
-		"qlik-sense": ">=3.0.x"
-	}
+		"qlik-sense": ">=5.5.x"
+	},
 	"bundle": {
         "id": "reveal-extensions",
         "name": "Reveal AB",

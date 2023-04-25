@@ -53,11 +53,7 @@ define( [ "qlik", 'jquery',"./properties","./initial-properties"], function (qli
 			
 			return qlik.Promise.resolve();
 			
-		},
-		// mounted: function ($element, layout) {
-		// 	console.log('mounted');
-		// 	console.log(layout);
-		// }
+		}
 	};
 
 } );

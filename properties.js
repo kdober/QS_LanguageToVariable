@@ -52,6 +52,9 @@ define(["text!./LanguageToVariable.qext"], function(qext) {
                     }
                 }
             },
+			appearance: {
+				uses: "settings",
+			},
             about: about
         }
     }
